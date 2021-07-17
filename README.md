@@ -1,1 +1,2 @@
 # Cryptocurrencies
+Great Challenge furth exploring Machine Learning, this time unsupervised. In this module and challenge we revisited pandas in preprocessing our data set. We reduced the dimensions using PCA, clustered the different cryptocurrencies using K-means and finally performed some visualizations of our results. 
